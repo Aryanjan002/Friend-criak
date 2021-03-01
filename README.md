@@ -9,3 +9,8 @@
 # cd Friend-criak
 # ls
 # python2 Aryanhacker.py
+#
+
+# tool Username and password 
+# Username Aryan 
+# password Hacker 
